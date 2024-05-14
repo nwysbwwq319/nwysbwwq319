@@ -26,7 +26,7 @@ return (0);
 
 ```
 ### 实验结果
-
+![这是图片](https://github.com/nwysbwwq319/nwysbwwq319/blob/main/1_res.png "png1")
 ## 实验二
 ### Mutex的使用(mutex-ex.c)
 ```c 
@@ -56,7 +56,7 @@ return (0);
 ```
 
 ### 实验结果
-
+![这是图片](https://github.com/nwysbwwq319/nwysbwwq319/blob/main/2_res.png "png2")
 ## 实验三
 ### Semaphore相关函数的说明
 ```c 
@@ -93,7 +93,7 @@ return (0);
 
 ```
 ### 实验结果
-
+![这是图片](https://github.com/nwysbwwq319/nwysbwwq319/blob/main/3_res.png "png3")
 
 ## 实验四
 ### 代码实现
@@ -182,4 +182,6 @@ int main() {
 }
 
 ```
+### 实验结果
+![这是图片](https://github.com/nwysbwwq319/nwysbwwq319/blob/main/4_res.png "png4")
 
